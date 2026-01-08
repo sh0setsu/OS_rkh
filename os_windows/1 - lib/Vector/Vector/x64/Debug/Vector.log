@@ -1,8 +1,0 @@
-﻿  pch.cpp
-  dllmain.cpp
-  Vector.cpp
-C:\Users\rhohl\Downloads\os\1 - lib\Vector\Vector.h(29,9): warning C4251: 'Vector::x_': 'Number' needs to have dll-interface to be used by clients of 'Vector'
-C:\Users\rhohl\Downloads\os\1 - lib\Vector\Vector.h(30,9): warning C4251: 'Vector::y_': 'Number' needs to have dll-interface to be used by clients of 'Vector'
-  Generating Code...
-     Creating library C:\Users\rhohl\Downloads\os\1 - lib\Vector\x64\Debug\Vector.lib and object C:\Users\rhohl\Downloads\os\1 - lib\Vector\x64\Debug\Vector.exp
-  Vector.vcxproj -> C:\Users\rhohl\Downloads\os\1 - lib\Vector\x64\Debug\Vector.dll
