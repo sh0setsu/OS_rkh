@@ -1,0 +1,3 @@
+﻿  Number.cpp
+C:\Users\rhohl\Downloads\os\1 - lib\Number\Number.cpp(62,9): warning C4244: 'return': conversion from 'double' to 'const int', possible loss of data
+  Number.vcxproj -> C:\Users\rhohl\Downloads\os\1 - lib\Number\x64\Debug\Number.lib
